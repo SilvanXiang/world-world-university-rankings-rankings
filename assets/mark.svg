@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">World World University Rankings Rankings — double podium</title>
+  <rect width="64" height="64" rx="13" fill="#142e39"/>
+  <g stroke="#142e39" stroke-linejoin="round" stroke-width="1.2">
+    <path fill="#efe6c9" d="M7 39l5-4h9l5-4h10l5-6 6 1v6h6l4 3-7 5z"/>
+    <path fill="#f3ead1" d="M7 39h12v-9h20v5h11v15H7z"/>
+    <path fill="#9daea4" d="M50 35l7-4v15l-7 4zM39 30l7-4v6l-7 3z"/>
+    <path fill="#d6c4a1" d="M7 39l7-4h5v4zM19 30l7-4h20l-7 4zM39 35l7-4h11l-7 4z"/>
+  </g>
+  <path fill="#f2ad4d" d="M23 20h5v-6h7v4h6v7H23z"/>
+  <path fill="#ffdd91" d="M23 20l4-3h1v3zm5-6 4-3h7l-4 3zm7 4 4-3h6l-4 3z"/>
+  <path fill="#c57c37" d="M41 18l4-3v7l-4 3zm-6-4 4-3v4l-4 3z"/>
+  <path fill="#17343c" d="M27 35h5v1h-1.4v9H32v1h-5v-1h1.4v-9H27z"/>
+  <path fill="#d7be85" d="M8 52h42l6-3v2l-6 3H8z"/>
+</svg>
